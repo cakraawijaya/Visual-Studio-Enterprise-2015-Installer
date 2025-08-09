@@ -12,9 +12,11 @@ Untuk menginstal perangkat lunak Visual Studio di komputer Anda. Visual Studio a
 
 • Unduh repositori ini.
 
+• Buka folder ``` Visual-Studio-Enterprise-2015-Installer-master ```.
+
 • Klik kanan ``` Visual Studio Enterprise 2015.part01 ``` -> Pilih ``` Extract Here ```.
 
-• Buka folder ``` Visual Studio Enterprise 2015 ```
+• Buka folder ``` Visual Studio Enterprise 2015 ```.
 
 • Pastikan koneksi internet Anda aktif selama proses instalasi.
 
