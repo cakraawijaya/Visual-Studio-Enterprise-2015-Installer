@@ -23,3 +23,5 @@ Untuk menginstal perangkat lunak Visual Studio di komputer Anda. Visual Studio a
 • Klik kanan ``` vs_enterprise.exe ``` -> Pilih ``` Run as administrator ```.
 
 • Pilih pengaturan ``` default ``` -> Klik tombol ``` Install ``` .
+
+• Tunggu hingga selesai -> Klik tombol ``` LAUNCH ``` untuk membuka aplikasi.
