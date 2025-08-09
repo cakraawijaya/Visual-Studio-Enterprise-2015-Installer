@@ -12,9 +12,11 @@ To install Visual Studio software on your computer. Visual Studio is an Integrat
 
 • Download this repository.
 
+• Open Folder ``` Visual-Studio-Enterprise-2015-Installer-master```.
+
 • Right click ``` Visual Studio Enterprise 2015.part01 ``` -> Select ``` Extract Here ```.
 
-• Open Folder ``` Visual Studio Enterprise 2015 ```
+• Open Folder ``` Visual Studio Enterprise 2015 ```.
 
 • Make sure your internet connection is active during the installation process.
 
