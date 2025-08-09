@@ -23,3 +23,5 @@ To install Visual Studio software on your computer. Visual Studio is an Integrat
 • Right click ``` vs_enterprise.exe ``` -> Select ``` Run as administrator ```.
 
 • Select the ``` default ``` settings -> Click the ``` Install ``` button.
+
+• Wait for it to finish -> Click the ``` LAUNCH ``` button to start the app.
