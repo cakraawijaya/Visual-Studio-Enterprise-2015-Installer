@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Visual-Studio-Enterprise-2015-Installer?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Visual-Studio-Enterprise-2015-Installer
+# Visual Studio Enterprise 2015 Installer
 To install Visual Studio software on your computer. Visual Studio is an Integrated Development Environment (IDE) developed by Microsoft, used to develop various types of applications, including desktop, web, and mobile applications.
 
 <br>
